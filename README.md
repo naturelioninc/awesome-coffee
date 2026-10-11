@@ -38,6 +38,7 @@ A curated **and opinionated** list of resources for tech professionals, with the
 - [Get Better Sleep with Blackouts](https://www.youtube.com/watch?v=0O2gpMDUr7o)
 - [Setting the Stage for Sounder Sleep](https://www.health.harvard.edu/staying-healthy/setting-the-stage-for-sounder-sleep)
 - [Sleep Calculator](https://sleepcalculator.com/)
+- [Sleep Maxxing](https://sleepmaxxing-gamma.vercel.app) - Science-backed sleep optimization guides: sleep hygiene, circadian rhythm, sleep debt and recovery tips.
 
 ## Time Management
 
